@@ -1,0 +1,25 @@
+{
+  "name": "hodhod",
+  "version": "1.0.0",
+  "description": "hodhodgram",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mohammad hossein moradi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jquery": "^3.6.0",
+    "socket.io": "^4.1.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadhoseinmoradi/soketio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mohammadhoseinmoradi/soketio/issues"
+  },
+  "homepage": "https://github.com/mohammadhoseinmoradi/soketio#readme"
+}
